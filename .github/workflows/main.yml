@@ -2,7 +2,7 @@ name: Sky task every day update
 
 on:
   schedule:
-    - cron: '0 5,17 * * *'
+    - cron: '15 4,17 * * *'
   workflow_dispatch:
 
 jobs:
