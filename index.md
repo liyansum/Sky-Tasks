@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-05-24 01:14:22
+date: 2022-05-25 01:15:59
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -8,49 +8,49 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇小助理每日攻略
-**🎉2022年5月24日任务攻略✨**
+**🎉2022年5月25日任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220524/001144-e4c8q0srvg.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220525/000327-d840qprzsj.png)
 
-任务： **2人合力开启一道门**
+任务： **收集30点烛光**
 
-位置：有双人门的场景，比如云野、霞谷、禁阁
+位置：任意场景
 
-步骤：点燃双人门一边的机关，有玩家点燃另一边开启门的话，就能完成任务啦
+步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220524/001209-8l4pwaky7u.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220525/000356-oj2ua6fcgn.png)
 
-任务： **掀翻5只螃蟹**
+任务： **和陌生人一起坐在长凳上**
 
-位置：有螃蟹的场景，比如暮土、雨林
+位置：有长凳的场景，比如云野
 
-步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
+步骤：坐在长凳的一侧，有玩家坐在另一侧即可完成任务
 
-![](https://ok.166.net/reunionpub/ds/kol/20220524/001118-gzdso4ic8y.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220525/000458-9pztj432nv.png)
 
-任务： **在秘密花园里冥想**
+任务： **在霞谷追逐散落的星光**
 
-位置：雨林-隐藏图
+位置：霞谷-滑冰场
 
-步骤：来到雨林二图后，通过右边入口进入隐藏图，然后往右边飞，在空心树旁边找到冥想点~
+步骤：来到霞谷滑冰场触碰到飞舞的星光即可完成任务。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220524/001609-fr3dkyqseu.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220525/000723-0s1rgyc5tz.png)
 
-任务： **在雨林重温先祖的美好回忆  **
+任务： **在霞谷重温先祖的美好回忆  **
 
-位置：雨林-密林遗迹（断桥图/水母图）
+位置：霞谷-赛道终点
 
-步骤：在右方的洞穴内重温先祖回忆。
+步骤：完成赛道之后，在左侧高处找到先祖完成重温任务。
 
- **🎉2022年5月24日大蜡烛攻略✨**
+ **🎉2022年5月25日大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220524/000817-s2s8cmjrgu.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220525/000300-qgp6f8wdls.png)
 
   
 
- **🎉2022年5月24日季节烛火攻略✨**
+ **🎉2022年5月25日季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220524/001050-jgme9h3s1w.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220525/000535-rgyh7olac5.png)
 
   
 
