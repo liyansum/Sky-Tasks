@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-05-26 01:17:21
+date: 2022-05-27 01:16:38
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -8,49 +8,53 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇小助理每日攻略
-**🎉2022年5月26日任务攻略✨**
+**🎉2022年5月27日任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220526/000537-g2hoi7ka0j.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220527/000620-049zhj3wpl.png)
 
-任务： **接受一位朋友的礼物**
+任务： **向一位玩家鞠躬**
 
-位置：遇境
+位置：任意场景
 
-步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
+步骤：传送到好友的房间，面向好友，点开动作列表后使用【鞠躬】即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220526/000655-4j2yp7orm9.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220527/001001-0jsuk6pose.png)
 
-任务： **掀翻5只螃蟹**
+任务： **拯救一只被黑暗藤蔓困住的遥鲲**
 
-位置：有螃蟹的场景，比如暮土、雨林
+位置：雨林-密林遗迹（断桥图/水母图）
 
-步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
+步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220526/000629-r6wd12p3bv.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220527/001032-ty6us3hi7l.png)
 
-任务： **在远古战场中央冥想**
+任务： **收集紫色光芒**
 
-位置：暮土-远古战场（四图）
+位置：禁阁-地下室
 
-步骤：进入暮土四图，飞过主体建筑后，找到石碑完成冥想。光线较暗，注意查找哦
+步骤：进入禁阁往右边走，开启双人门进入地下室，通道出来可以看到紫色光芒，飞起进行收集即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220526/000927-pzy8wu1d9k.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220527/001154-7h3v286uqs.png)
 
-任务： **在暮土重温先祖的美好回忆  **
+任务： **在禁阁重温先祖的美好回忆  **
 
-位置：暮土-隐藏图（沉船图）
+位置：禁阁-三层
 
-步骤：来到暮土隐藏图，在沉船背面找到先祖，完成回忆任务。
+步骤：到禁阁三层，完成回忆任务即可
 
- **🎉2022年5月26日大烛攻略✨**
+ **🎉2022年5月27日大烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220526/000741-eabpwdqi17.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220527/000647-8gjbl1srwq.png)
+
+![](https://ok.166.net/reunionpub/ds/kol/20220527/000844-s1luki80zs.png)
+
+![](https://ok.166.net/reunionpub/ds/kol/20220527/000817-a1jh3p4wcm.png)
 
   
 
- **🎉2022年5月26日季节烛火攻略✨**
+ **🎉2022年5月27日季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220526/001204-cj4w6b8iua.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220527/000948-3rtbchiuj0.png)
 
   
 
