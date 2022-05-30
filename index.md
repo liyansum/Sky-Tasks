@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-05-30 01:13:10
+date: 2022-05-31 01:15:45
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -8,49 +8,51 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇小助理每日攻略
-**🎉2022年5月30日任务攻略✨**
+**🎉2022年5月31日任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220530/000239-0lrdoz6eks.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220529/005729-hneuqmvocj.png)
 
-任务： **给一位朋友送礼**
-
-位置：遇境
-
-步骤：点开好友星盘，选择一位好友赠送爱心（消耗3根蜡烛）
-
-![](https://ok.166.net/reunionpub/ds/kol/20220528/004002-493rsfuyki.png)
-
-任务： **点燃20根蜡烛**
+任务： **向一位朋友做个动作**
 
 位置：任意场景
 
-步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220530/000404-j3q1ve5r4a.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220528/004002-493rsfuyki.png)
 
-任务： **在霞谷重温先祖的美好回忆  **
+任务： **收集30点烛光**
 
-位置：霞谷-滑冰场
+位置：任意场景
 
-步骤：在滑冰场上方高地可看到先祖。
+步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220530/000431-vmh32jwp5a.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220531/000809-4vitch3pr8.png)
 
-任务： **在霞光城拱门上冥想**
+任务： **在黑水湾的沉船上冥想**
 
-位置：霞谷-拱门上方
+位置：暮土-黑水湾（沉船图）
 
-步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），走完长阶梯后，可以找到的拱门上面的冥想点~
-
- **🎉2022年5月30日大烛攻略✨**
-
-![](https://ok.166.net/reunionpub/ds/kol/20220530/000326-4lvwqo2z7k.png)
+步骤：进入暮土三图后，从右侧洞穴进入沉船图，飞到沉船里面，在光圈内完成冥想
 
   
 
- **🎉2022年5月30日季节烛火攻略✨**
+![](https://ok.166.net/reunionpub/ds/kol/20220531/001611-jmvizwe6cb.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220530/000338-o7yjh9dsvc.png)
+任务： **在暮土重温先祖的美好回忆  **
+
+位置：暮土-巨兽荒原（三图）
+
+步骤：暮土龙骨图最高的山丘下，在洞里面可看到先祖，要注意躲避冥龙哦。
+
+ **🎉2022年5月31日大烛攻略✨**
+
+![](https://ok.166.net/reunionpub/ds/kol/20220531/000923-qe6r8oil0w.png)
+
+  
+
+ **🎉2022年5月31日季节烛火攻略✨**
+
+![](https://ok.166.net/reunionpub/ds/kol/20220531/001031-a98rgtbk62.png)
 
   
 
