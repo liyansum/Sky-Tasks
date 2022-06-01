@@ -10816,3 +10816,6 @@
 2022-06-01 01:20:40,148 - /home/runner/work/Sky-Tasks/Sky-Tasks/api_web.py [line:155] - INFO: 2022-06-01 光遇小助理每日攻略 保存成功!
 2022-06-01 01:20:47,783 - /home/runner/work/Sky-Tasks/Sky-Tasks/email_service.py [line:86] - INFO: admin@maaue.com邮件推送成功!
 2022-06-01 01:20:52,789 - main.py [line:85] - INFO: 处理完成! 新数据条数:1
+2022-06-01 13:40:55,469 - main.py [line:53] - INFO: 爬取开始ing......
+2022-06-01 13:40:57,048 - main.py [line:63] - INFO: 共获取到9条链接.
+2022-06-01 13:41:16,601 - main.py [line:85] - INFO: 处理完成! 新数据条数:0
