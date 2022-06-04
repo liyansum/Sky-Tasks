@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-06-03 01:20:33
+date: 2022-06-04 13:06:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -8,53 +8,53 @@ index_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?i
 banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?imageView&thumbnail=600x0&type=jpg
 ---
 # 光遇小助理每日攻略
-**🎉2022年6月3日任务攻略✨**
+**🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220603/010137-s7em0fqphz.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220604/010139-v68cmgfu0j.png)
 
-任务： **向其他玩家传递能量**
+任务： **向一位朋友招手**
 
 位置：任意场景
 
-步骤：在其他玩家损耗了能量的状态下，通过与其牵手传递能量，还可以尝试和好友牵手进图或者返回遇境，更多的完成方式可以在游戏中探索一下哦
+步骤：传送到好友的房间，面向好友，点开动作列表后使用【招手】即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220603/010200-usq8s65iwk.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220604/010210-0lmfecq5bn.png)
 
-任务： **在水母上恢复能量**
+任务： **掀翻5只螃蟹**
 
-位置：有水母的地图，比如雨林、云野
+位置：有螃蟹的场景，比如暮土、雨林
 
-步骤：消耗能量之后，跳到水母上方恢复能量即可。
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220602/000358-ymhw5fnsoe.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220604/010234-0mq8rhwu3f.png)
 
-任务： **净化10株黑暗植物**
+任务： **在霞光城拱门上冥想**
 
-位置：有黑暗植物的地图，比如雨林、云野、暮土
+位置：霞谷-拱门上方
 
-步骤：用蜡烛将黑暗植物燃烧掉即可。
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），走完长阶梯后，可以找到的拱门上面的冥想点~
 
-![](https://ok.166.net/reunionpub/ds/kol/20220603/010231-svw80dn3ys.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220604/011746-3sqjs96vyc.png)
 
-任务： **收集橙色光芒**
+任务： **在霞谷重温先祖的美好回忆  **
 
-位置：雨林-密林遗迹（水母图）
+位置：霞谷-赛道终点
 
-步骤：进入雨林四图后往左前方走，在树林里收集橙色光芒，能量充足可以飞起来收集，也可以在下方等光芒经过
+步骤：完成赛道之后，在左侧高处找到先祖完成重温任务。
 
- **🎉2022年6月3日大烛攻略✨**
+ **🎉大烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220603/010426-h38ed4ri1k.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220604/010528-jebdfv182i.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220603/010543-a6wsci8kzr.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220604/010803-4hd8frbce0.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220603/010325-sh04b1pgzm.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220604/010324-0n13pgr8s7.png)
 
   
 
- **🎉2022年6月3日季节烛火攻略✨**
+ **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220603/010609-c4sb8ohl09.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220604/010917-3sra2ye8tk.png)
 
   
 
