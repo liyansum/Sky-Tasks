@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-06-05 01:06:21
+date: 2022-06-06 01:06:34
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,51 +10,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220605/002830-j6c5s3dp4w.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220606/000451-aiwrg847p9.png)
 
-任务： **接受一位朋友的礼物**
+任务： **和陌生人一起坐在长凳上**
 
-位置：遇境
+位置：有长凳的场景，比如云野
 
-步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
+步骤：坐在长凳的一侧，有玩家坐在另一侧即可完成任务
 
 ![](https://ok.166.net/reunionpub/ds/kol/20220605/002857-9vg4h0wnds.png)
 
-任务： **点燃20根蜡烛**
+任务： **收集30点烛光**
 
 位置：任意场景
 
-步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220605/003146-vfo15skhgz.png)
+  
 
-任务： **在暮土重温先祖的美好回忆  **
+![](https://ok.166.net/reunionpub/ds/kol/20220606/000645-k3uoh5di62.png)
 
-位置：暮土-一图
+任务： **收集紫色光芒**
 
-步骤：暮土第一个地图可看到先祖，要注意躲避螃蟹哦。
+位置：禁阁-地下室
 
-![](https://ok.166.net/reunionpub/ds/kol/20220605/003212-lqtmpw8sbg.png)
+步骤：进入禁阁往右边走，开启双人门进入地下室，通道出来可以看到紫色光芒，飞起进行收集即可
 
-任务： **在边陲荒漠的神庙里冥想**
+![](https://ok.166.net/reunionpub/ds/kol/20220606/001205-mg2lquyot3.png)
 
-位置：暮土-边陲荒漠（一图）
+任务： **在禁阁重温先祖的美好回忆  **
 
-步骤：进入暮土一图，在倾倒的建筑内找到光圈完成冥想~
+位置：禁阁-二层4人门内
+
+步骤：到禁阁二层，开启四人门，完成回忆任务即可
 
  **🎉大烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220605/002822-tw3gn8imzu.png)
-
-![](https://ok.166.net/reunionpub/ds/kol/20220605/003020-kt41nqh56p.png)
-
-![](https://ok.166.net/reunionpub/ds/kol/20220605/002954-pbi3cky4z7.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220606/000802-zy5j361t9n.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220605/003132-oj5p816iq9.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220606/000852-lekmqhp3un.png)
 
   
 
