@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-06-08 01:14:40
+date: 2022-06-09 01:10:23
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,47 +10,47 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220608/000157-gwsj2760lp.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220609/000150-vat4inrhus.png)
 
-任务： **向一位朋友做个动作**
+任务： **和朋友击掌**
 
 位置：任意场景
 
-步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
+步骤：点击好友，在好友树使用【击掌】
 
-![](https://ok.166.net/reunionpub/ds/kol/20220608/000226-4j0pqw8vhc.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220609/000217-7zh36tel28.png)
 
-任务： **掀翻5只螃蟹**
+任务： **点燃20根蜡烛**
 
-位置：有螃蟹的场景，比如暮土、雨林
+位置：任意场景
 
-步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
+步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220608/000245-f0z2hey48r.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220609/000423-3vnqks7645.png)
 
-任务：在 **荧光小菇旁恢复能量**
+任务： **在霞谷重温先祖的美好回忆  **
 
-位置：有荧光小菇的地图，比如雨林
+位置：霞谷-霞光城左侧
 
-步骤：消耗能量完毕之后，跳到荧光小菇上方恢复能量即可。
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），在左侧找到先祖，完成重温任务。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220608/000310-zmta3rbjfh.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220609/000241-o6g07ruywn.png)
 
-任务： **在秘密花园里冥想**
+任务： **在霞光城上层冥想**
 
-位置：雨林-隐藏图
+位置：霞谷-霞光城主城楼中间
 
-步骤：来到雨林二图后，通过右边入口进入隐藏图，然后往右边飞，在空心树旁边找到冥想点~
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），围绕着主城往上飞，冥想点在中层的走廊上
 
  **🎉大烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220608/000415-3be7rkpqsv.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220609/000325-vs5ewpnqsj.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220608/000458-huztm04pfs.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220609/000509-z6bq0gmfhe.png)
 
   
 
