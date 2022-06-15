@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-06-15 01:12:29
+date: 2022-06-16 01:10:32
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -18,39 +18,39 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
 
-![](https://ok.166.net/reunionpub/ds/kol/20220615/000319-emuiqvy8d3.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220616/010035-b0wdtcspnr.png)
 
-任务： **净化10株黑暗植物**
-
-位置：有黑暗植物的地图，比如雨林、云野、暮土
-
-步骤：用蜡烛将黑暗植物燃烧掉即可。
-
-![](https://ok.166.net/reunionpub/ds/kol/20220615/001053-3qdjcvaeug.png)
-
-任务： **在暮土重温先祖的美好回忆  **
+任务： **面对冥龙**
 
 位置：暮土二图
 
-步骤：二图入口即可看到先祖，要注意躲避冥龙哦。
+步骤：面对冥龙即可完成，大家要注意躲避哦。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220615/000255-5zqsl7gkje.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220616/005713-vwjapc03qu.png)
 
-任务： **在巨兽荒原的神坛旁冥想**
+任务： **在禁阁的神坛旁冥想**
 
-位置：暮土-巨兽荒原（三图）
+位置：禁阁-一层
 
-步骤：进入暮土三图后，直接往前飞，着陆之后往右边走，在光圈内完成冥想。光线较暗，注意躲避冥龙哦
+步骤：进入禁阁后，直接来到右边的台阶上，在光圈内完成冥想
+
+![](https://ok.166.net/reunionpub/ds/kol/20220616/005930-jq7nekfbs9.png)
+
+任务： **在禁阁重温先祖的美好回忆  **
+
+位置：禁阁-4层
+
+步骤：到禁阁4层，找到平台上的先祖，完成回忆任务即可
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220615/000423-2rksja7w5d.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220616/005639-dpbzowvalr.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220615/000845-mn7gtsiubd.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220616/005835-wc79n52lj6.png)
 
   
 
