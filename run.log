@@ -11066,3 +11066,9 @@
 2022-06-20 13:25:01,904 - main.py [line:53] - INFO: 爬取开始ing......
 2022-06-20 13:25:04,046 - main.py [line:63] - INFO: 共获取到9条链接.
 2022-06-20 13:25:21,426 - main.py [line:85] - INFO: 处理完成! 新数据条数:0
+2022-06-21 01:14:03,758 - main.py [line:53] - INFO: 爬取开始ing......
+2022-06-21 01:14:05,583 - main.py [line:63] - INFO: 共获取到9条链接.
+2022-06-21 01:14:22,046 - main.py [line:47] - INFO: 发现新数据https://m.ds.163.com/article/62b09b9f3408360001327ebf/插入成功！
+2022-06-21 01:14:22,047 - /home/runner/work/Sky-Tasks/Sky-Tasks/api_web.py [line:155] - INFO: 2022-06-21 光遇小助理每日攻略 保存成功!
+2022-06-21 01:14:30,189 - /home/runner/work/Sky-Tasks/Sky-Tasks/email_service.py [line:86] - INFO: admin@maaue.com邮件推送成功!
+2022-06-21 01:14:35,194 - main.py [line:85] - INFO: 处理完成! 新数据条数:1

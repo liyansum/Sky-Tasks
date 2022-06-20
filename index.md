@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-06-20 01:07:31
+date: 2022-06-21 01:14:22
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,47 +10,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220620/000524-wq3jl9beck.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220621/000244-m1h2f0k5ca.png)
 
-任务： **向其他玩家传递能量**
+任务： **向一位朋友招手**
 
 位置：任意场景
 
-步骤：在其他玩家损耗了能量的状态下，通过与其牵手传递能量，还可以尝试和好友牵手进图或者返回遇境，更多的完成方式可以在游戏中探索一下哦
+步骤：传送到好友的房间，面向好友，点开动作列表后使用【招手】即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220620/000556-7ohz59sgqs.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220619/000438-pwqbthnov0.png)
 
-任务： **面对冥龙**
+任务： **收集30点烛光**
 
-位置：暮土
+位置：任意场景
 
-步骤：面对冥龙即可完成，大家要注意躲避哦。
+步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220620/000730-8ir9kgtd0s.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220621/000814-i05spok9nu.png)
 
-任务： **在黑水湾的沉船上冥想**
+任务： **在禁阁重温先祖的美好回忆  **
 
-位置：暮土-黑水湾（沉船图）
+位置：禁阁-三层
 
-步骤：进入暮土三图后，从右侧洞穴进入沉船图，飞到沉船里面，在光圈内完成冥想
+步骤：到禁阁三层，完成回忆任务即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220620/002742-czvrfkalsp.png)
+  
 
-任务： **在暮土重温先祖的美好回忆  **
+![](https://ok.166.net/reunionpub/ds/kol/20220621/000633-il60ok4bmy.png)
 
-位置：暮土-远古战场（终点前）
+任务： **在禁阁的神坛旁冥想**
 
-步骤：暮土远古战场大花旁边可看到先祖，完成任务即可。
+位置：禁阁-顶层
+
+步骤：来到禁阁的顶层，即可找到冥想点
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220620/000936-ga3sl1kjbw.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220621/000409-erg9qcdyt3.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220620/001117-ps0g1ywej2.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220621/000554-dbz42hj6pc.png)
 
   
+
+生日快乐！
 
