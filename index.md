@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-06-21 01:14:22
+date: 2022-06-22 01:22:54
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,51 +10,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220621/000244-m1h2f0k5ca.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220622/000314-wla7hbqdsg.png)
 
-任务： **向一位朋友招手**
-
-位置：任意场景
-
-步骤：传送到好友的房间，面向好友，点开动作列表后使用【招手】即可
-
-![](https://ok.166.net/reunionpub/ds/kol/20220619/000438-pwqbthnov0.png)
-
-任务： **收集30点烛光**
+任务： **向一位玩家鞠躬**
 
 位置：任意场景
 
-步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：传送到好友的房间，面向好友，点开动作列表后使用【鞠躬】即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220621/000814-i05spok9nu.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220622/000343-r3a6u1negh.png)
 
-任务： **在禁阁重温先祖的美好回忆  **
+任务： **在云野重温先祖的美好回忆  **
 
-位置：禁阁-三层
+位置：云野-金塔图
 
-步骤：到禁阁三层，完成回忆任务即可
+步骤：在中间金塔下重温先祖回忆。
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220622/000415-ni1uy4s38f.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220621/000633-il60ok4bmy.png)
+任务： **拯救一只被黑暗藤蔓困住的遥鲲**
 
-任务： **在禁阁的神坛旁冥想**
+位置：雨林-密林遗迹（断桥图/水母图）
 
-位置：禁阁-顶层
+步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
 
-步骤：来到禁阁的顶层，即可找到冥想点
+![](https://ok.166.net/reunionpub/ds/kol/20220622/000454-m4fv8t1qba.png)
+
+任务： **在云顶浮石上冥想**
+
+位置：云野-右侧隐藏图
+
+步骤：进入云野后往右边走，进入隐藏图，找到光圈完成冥想即可~
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220621/000409-erg9qcdyt3.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220622/000611-6iaze3ocws.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220621/000554-dbz42hj6pc.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220622/000648-joip4yv38g.png)
 
   
 
-生日快乐！
+  
+
+  
 
