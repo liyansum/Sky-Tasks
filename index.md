@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-06-23 01:18:18
+date: 2022-06-24 01:14:11
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,49 +10,53 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220622/000314-wla7hbqdsg.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220624/005328-nd6f0btq3r.png)
 
-任务： **向一位朋友做个动作**
+任务： **给一位朋友送礼**
 
-位置：任意场景
+位置：遇境
 
-步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
+步骤：点开好友星盘，选择一位好友赠送爱心（消耗3根蜡烛）
 
-![](https://ok.166.net/reunionpub/ds/kol/20220623/000525-qc6mzgj29b.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220624/005358-5q6ydowl4c.png)
 
-任务： **在水母上恢复能量**
+任务： **在霞谷重温先祖的美好回忆  **
 
-位置：有水母的地图，比如雨林、云野
+位置：霞谷-滑冰场
 
-步骤：消耗能量之后，跳到水母上方恢复能量即可。
+步骤：在滑冰场上方高地可看到先祖。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220623/000559-zp5s0mb2g3.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220624/005418-mae7c91wv8.png)
 
-任务： **净化10株黑暗植物**
+任务： **掀翻5只螃蟹**
 
-位置：有黑暗植物的地图，比如雨林、云野、暮土
+位置：有螃蟹的场景，比如暮土、雨林
 
-步骤：用蜡烛将黑暗植物燃烧掉即可。
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220624/005434-mo6latkydj.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220623/000650-2zi3q6f5dy.png)
+任务： **在霞光城拱门上冥想**
 
-任务： **在雨林的神庙内冥想**
+位置：霞谷-拱门上方
 
-位置：雨林-神庙（终点后面）
-
-步骤：来到雨林神庙，穿过神庙内的大门，可以找到冥想点~
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），走完长阶梯后，可以找到的拱门上面的冥想点~
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220623/000744-is02ejs1a4.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220624/005524-7g689kodup.png)
+
+![](https://ok.166.net/reunionpub/ds/kol/20220624/005719-r69dnufeks.png)
+
+![](https://ok.166.net/reunionpub/ds/kol/20220624/005808-fthm49z21g.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220623/000917-nro7espmks.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220624/005817-j67lqp9t5f.png)
+
+  
 
   
 
