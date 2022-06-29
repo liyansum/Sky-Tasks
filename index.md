@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-06-29 01:17:03
+date: 2022-06-30 01:33:43
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -20,39 +20,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
   
 
-![](https://ok.166.net/reunionpub/ds/kol/20220629/001455-s8rs0lm1e6.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220630/000143-snrl3cid07.png)
 
-任务： **面对冥龙**
+任务： **净化10株黑暗植物**
 
-位置：暮土二图
+位置：有黑暗植物的地图，比如雨林、云野、暮土
 
-步骤：面对冥龙即可完成，大家要注意躲避哦。
+步骤：用蜡烛将黑暗植物燃烧掉即可。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220629/001601-lt7ve8ing5.png)
+  
 
-任务： **收集蓝色光芒**
+![](https://ok.166.net/reunionpub/ds/kol/20220630/000233-j9n182tsvs.png)
 
-位置：霞谷-滑冰场
+任务： **在边陲荒漠的神庙里冥想**
 
-步骤：进入霞谷后，往前方滑行，来到滑冰场下方收集蓝色光芒
+位置：暮土-边陲荒漠（一图）
 
-![](https://ok.166.net/reunionpub/ds/kol/20220629/001648-3q728lo650.png)
+步骤：进入暮土一图，在倾倒的建筑内找到光圈完成冥想~
 
-任务： **在霞谷重温先祖的美好回忆  **
+![](https://ok.166.net/reunionpub/ds/kol/20220630/001011-2o4a3tmd1l.png)
 
-位置：霞谷-霞光城中层走廊
+任务： **在暮土重温先祖的美好回忆  **
 
-步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），在走廊找到先祖，完成重温任务。
+位置：暮土-远古战场（终点前）
+
+步骤：暮土远古战场大花旁边可看到先祖，完成任务即可。
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220629/001743-2349n1rfem.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220630/000326-2c3ds1tv6s.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220629/001857-gr30kp86bl.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220630/000815-5n1s96sy28.png)
+
+  
 
   
 
