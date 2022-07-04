@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-04 01:08:34
+date: 2022-07-05 01:13:37
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,51 +10,47 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220628/000303-9i301df25z.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220705/000709-zd0lbqovsw.png)
 
-任务： **和陌生人一起坐在长凳上**
+任务： **给一位朋友送礼**
 
-位置：有长凳的场景，比如云野
+位置：遇境
 
-步骤：坐在长凳的一侧，有玩家坐在另一侧即可完成任务
+步骤：点开好友星盘，选择一位好友赠送爱心（消耗3根蜡烛）
 
-![](https://ok.166.net/reunionpub/ds/kol/20220627/001221-r942dhebfk.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220705/000732-6hjrpksbev.png)
 
-任务： **拯救一只被黑暗藤蔓困住的遥鲲**
+任务： **收集30点烛光**
 
-位置：雨林-密林遗迹（断桥图/水母图）
+位置：任意场景
 
-步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
+步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220705/001048-skfg8qce36.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220704/000415-e4p1h6rgwo.png)
+任务： **在暮土重温先祖的美好回忆  **
 
-任务： **在滑冰场旁冥想**
+位置：暮土-一图
 
-位置：霞谷-滑冰场
+步骤：暮土第一个地图可看到先祖，要注意躲避螃蟹哦。
 
-步骤：来到霞谷滑冰场，冥想点在高处的山上~
+![](https://ok.166.net/reunionpub/ds/kol/20220705/000751-va1s7wmk5n.png)
 
-  
+任务： **在边陲荒漠的神庙里冥想**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220704/001915-hyk4v5si09.png)
+位置：暮土-边陲荒漠（一图）
 
-任务： **在霞谷重温先祖的美好回忆  **
-
-位置：霞谷-赛道终点
-
-步骤：完成赛道之后，在边上找到先祖完成重温任务。
+步骤：进入暮土一图，在倾倒的建筑内找到光圈完成冥想~
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220704/000547-q7te3mkyga.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220705/000833-yus59c12a3.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220704/000515-zop1sse3g5.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220705/001036-8s0u9svfoz.png)
 
   
 
