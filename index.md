@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-06 01:16:53
+date: 2022-07-07 01:15:24
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,51 +10,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220628/000303-9i301df25z.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220707/000342-wb1hl6gs7n.png)
 
-任务： **和陌生人一起坐在长凳上**
-
-位置：有长凳的场景，比如云野
-
-步骤：坐在长凳的一侧，有玩家坐在另一侧即可完成任务
-
-  
-
-![](https://ok.166.net/reunionpub/ds/kol/20220706/001429-z1duqyo8kf.png)
-
-任务： **收集30点烛光**
+任务： **向一位玩家鞠躬**
 
 位置：任意场景
 
-步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：传送到好友的房间，面向好友，点开动作列表后使用【鞠躬】即可
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220707/000404-was90ocgp6.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220706/001507-e0ga5mkiyz.png)
+任务： **掀翻5只螃蟹**
 
-任务： **在禁阁的神坛旁冥想**
+位置：有螃蟹的场景，比如暮土、雨林
 
-位置：禁阁-一层
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
-步骤：进入禁阁后，直接来到右边的台阶上，在光圈内完成冥想
+![](https://ok.166.net/reunionpub/ds/kol/20220707/000426-rg0fb2qszy.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220706/001811-mgsdhbenou.png)
+任务： **在仙乡的金塔下冥想**
 
-任务： **在禁阁重温先祖的美好回忆  **
+位置：云野-三座金塔地图
 
-位置：禁阁-4层
+步骤：进入云野后往右边走，进穿过隐藏图，来到圣岛，冥想点在~
 
-步骤：到禁阁4层，找到平台上的先祖，完成回忆任务即可
+![](https://ok.166.net/reunionpub/ds/kol/20220707/000826-kha96e1m7c.png)
+
+任务： **在云野重温先祖的美好回忆  **
+
+位置：云野-金塔图
+
+步骤：在中间金塔下，双人门内重温先祖回忆。
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220706/001719-gsr498osfi.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220707/000504-wgrveusfs6.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220706/001613-og3f1vmqs7.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220707/000551-re09y8gmlw.png)
+
+  
 
   
 
