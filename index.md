@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-07 01:15:24
+date: 2022-07-09 01:19:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,55 +10,53 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220707/000342-wb1hl6gs7n.png)
+  
 
-任务： **向一位玩家鞠躬**
+![](https://ok.166.net/reunionpub/ds/kol/20220709/003557-waocm8s9ep.png)
 
-位置：任意场景
+任务： **2人合力开启一道门**
 
-步骤：传送到好友的房间，面向好友，点开动作列表后使用【鞠躬】即可
+位置：有双人门的场景，比如云野、霞谷、禁阁
 
-![](https://ok.166.net/reunionpub/ds/kol/20220707/000404-was90ocgp6.png)
+步骤：点燃双人门一边的机关，有玩家点燃另一边开启门的话，就能完成任务啦
 
-任务： **掀翻5只螃蟹**
+![](https://ok.166.net/reunionpub/ds/kol/20220709/003628-gwrdfncayp.png)
 
-位置：有螃蟹的场景，比如暮土、雨林
+任务： **拯救一只被黑暗藤蔓困住的遥鲲**
 
-步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
+位置：雨林-密林遗迹（断桥图/水母图）
 
-![](https://ok.166.net/reunionpub/ds/kol/20220707/000426-rg0fb2qszy.png)
+步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
 
-任务： **在仙乡的金塔下冥想**
+![](https://ok.166.net/reunionpub/ds/kol/20220709/003743-euiglyt4hp.png)
 
-位置：云野-三座金塔地图
+任务： **在霞谷重温先祖的美好回忆  **
 
-步骤：进入云野后往右边走，进穿过隐藏图，来到圣岛，冥想点在~
+位置：霞谷-赛道终点
 
-![](https://ok.166.net/reunionpub/ds/kol/20220707/000826-kha96e1m7c.png)
+步骤：完成赛道之后，在左侧高处找到先祖完成重温任务。
 
-任务： **在云野重温先祖的美好回忆  **
+![](https://ok.166.net/reunionpub/ds/kol/20220709/003651-ecynhj72f4.png)
 
-位置：云野-金塔图
+任务： **在霞光城上层冥想**
 
-步骤：在中间金塔下，双人门内重温先祖回忆。
+位置：霞谷-霞光城主城楼中间
+
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），围绕着主城往上飞，冥想点在中层的走廊上
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220707/000504-wgrveusfs6.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220709/003927-juew5g42b1.png)
+
+![](https://ok.166.net/reunionpub/ds/kol/20220709/004026-cnusm5a9f6.png)
+
+![](https://ok.166.net/reunionpub/ds/kol/20220709/003830-4tejqys2mr.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220707/000551-re09y8gmlw.png)
-
-  
-
-  
-
-  
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220709/004102-8o5qw9zy0m.png)
 
   
 
