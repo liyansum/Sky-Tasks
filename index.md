@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-14 01:16:05
+date: 2022-07-15 01:21:05
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,55 +10,53 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **🎉任务攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220714/000137-ynvsh8l7k1.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220715/004614-2765vq43ms.png)
 
-任务： **接受一位朋友的礼物**
+任务： **向其他玩家传递能量**
 
-位置：遇境
+位置：任意场景
 
-步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
+步骤：在其他玩家损耗了能量的状态下，通过与其牵手传递能量，还可以尝试和好友牵手进图或者返回遇境，更多的完成方式可以在游戏探索一下哦
 
-![](https://ok.166.net/reunionpub/ds/kol/20220714/000215-e9yss7zrla.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220715/004707-dl3omyigps.png)
 
-任务： **拯救一只被黑暗藤蔓困住的遥鲲**
+任务： **收集30点烛光**
 
-位置：雨林-密林遗迹（断桥图/水母图）
+位置：任意场景
 
-步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
-
-  
-
-![](https://ok.166.net/reunionpub/ds/kol/20220714/000246-5ky0h76erf.png)
-
-任务：在霞谷追逐散落的星光
-
-位置：霞谷-滑冰场
-
-步骤：来到霞谷滑冰场触碰到飞舞的星光即可完成任务。
+步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
 
   
 
-![](https://ok.166.net/reunionpub/ds/kol/20220714/000557-mp6eno9g3u.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220715/005602-dknfoutsrs.png)
 
-任务： **在霞谷重温先祖的美好回忆  **
+任务： **在暮土重温先祖的美好回忆  **
 
-位置：霞谷-赛道终点
+位置：暮土二图
 
-步骤：完成赛道之后，在左侧高处找到先祖完成重温任务。
+步骤：二图入口即可看到先祖，要注意躲避冥龙哦。
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220715/004740-ufliqhnvts.png)
+
+任务： **在远古战场中央冥想**
+
+位置：暮土-远古战场（四图）
+
+步骤：进入暮土四图，飞过主体建筑后，找到石碑完成冥想。光线较暗，注意查找哦
 
  **🎉大蜡烛攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220714/000336-sls0tg658u.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220715/004920-8lbj2s1i3o.png)
+
+![](https://ok.166.net/reunionpub/ds/kol/20220715/004950-gmvjpwq9s6.png)
+
+![](https://ok.166.net/reunionpub/ds/kol/20220715/005113-61ae8w3lzu.png)
 
   
 
  **🎉季节烛火攻略✨**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220714/000428-vh39uqde68.png)
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220715/005339-5zws6u140d.png)
 
   
 
