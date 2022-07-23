@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-23 01:19:43
+date: 2022-07-24 01:11:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,45 +10,51 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220723/005115-ym0nu4plit.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220724/000642-y7tq2pv5cu.png)
 
-任务： **给一位朋友送礼**
-
-位置：遇境
-
-步骤：点开好友星盘，选择一位好友赠送爱心（消耗3根蜡烛）
-
-![](https://ok.166.net/reunionpub/ds/kol/20220723/005347-i5q1r72vek.png)
-
-任务： **点燃20根蜡烛**
+任务： **和朋友击掌**
 
 位置：任意场景
 
-步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：点击好友，在好友树使用【击掌】
 
-![](https://ok.166.net/reunionpub/ds/kol/20220723/005324-1q5ugvfc9p.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220724/000705-k2blcoz7ah.png)
 
-任务： **在静谧庭院外冥想**
+任务： **掀翻5只螃蟹**
 
-位置：雨林-一图
+位置：有螃蟹的场景，比如暮土、雨林
 
-步骤：进入雨林后往下方飞（不要进入下一张地图），在左边的空地找到光圈完成冥想~
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220723/010011-srbk26uflz.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220724/001112-4mc6rlj8us.png)
 
-任务： **在雨林重温先祖的美好回忆  **
+任务： **在霞谷追逐散落的星光**
 
-位置：雨林-橙色光芒所在地图
+位置：霞谷-滑冰场
 
-步骤：到密林遗迹地图（去找橙色光芒的路上会经过），找到先祖，重温先祖回忆。
+步骤：来到霞谷滑冰场触碰到飞舞的星光即可完成任务。
+
+![](https://ok.166.net/reunionpub/ds/kol/20220724/001213-qds6b2n08l.png)
+
+任务： **在霞谷重温先祖的美好回忆  **
+
+位置：霞谷-赛道终点
+
+步骤：完成赛道之后，在左侧高处找到先祖完成重温任务。
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220723/005544-okh6nergau.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220724/001101-4s9zj7mqit.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220723/005652-31woprhc9u.png)
+  
 
-![](https://ok.166.net/reunionpub/ds/kol/20220723/005442-s5361clotu.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220724/001032-cigtwsk6p0.png)
+
+  
+
+![](https://ok.166.net/reunionpub/ds/kol/20220724/000933-5dmtk8nope.png)
+
+  
 
   
 
