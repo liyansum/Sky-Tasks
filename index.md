@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-25 01:11:41
+date: 2022-07-26 01:16:21
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,41 +10,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220725/000322-wo8bans792.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220726/000521-wjetvfio14.png)
 
-任务： **接受一位朋友的礼物**
+任务： **和陌生人一起坐在长凳上**
 
-位置：遇境
+位置：有长凳的场景，比如云野
 
-步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
+步骤：坐在长凳的一侧，有玩家坐在另一侧即可完成任务
 
-![](https://ok.166.net/reunionpub/ds/kol/20220725/000414-8p9g6rmeuh.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220726/000547-10oed2bgs3.png)
 
-任务： **净化10株黑暗植物**
+任务： **面对冥龙**
 
-位置：有黑暗植物的地图，比如雨林、云野、暮土
+位置：暮土二图
 
-步骤：用蜡烛将黑暗植物燃烧掉即可。
+步骤：面对冥龙即可完成，大家要注意躲避哦。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220725/000437-jygiztn8su.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220726/000853-b1fdm23rnq.png)
 
-任务： **在边陲荒漠的神庙里冥想**
+任务： **在禁阁重温先祖的美好回忆  **
 
-位置：暮土-边陲荒漠（一图）
+位置：禁阁-4层
 
-步骤：进入暮土一图，在倾倒的建筑内找到光圈完成冥想~
+步骤：到禁阁4层，找到平台上的先祖，完成回忆任务即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220725/000736-keois5bhln.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220726/000752-ly1jq8co2u.png)
 
-任务： **在暮土重温先祖的美好回忆  **
+任务： **在禁阁的神坛旁冥想**
 
-位置：暮土-巨兽荒原（三图）
+位置：禁阁-顶层
 
-步骤：暮土龙骨图最高的山丘下，在洞里面可看到先祖，要注意躲避冥龙哦。
+步骤：来到禁阁的顶层，即可找到冥想点
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220725/000524-vsrl08yoet.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220726/000639-8isjwo2bef.png)
+
+  
 
   
 
