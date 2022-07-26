@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-26 01:16:21
+date: 2022-07-27 01:12:07
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,41 +10,43 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220726/000521-wjetvfio14.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220727/000145-fr5lh96bg4.png)
 
-任务： **和陌生人一起坐在长凳上**
+任务： **向一位朋友做个动作**
 
-位置：有长凳的场景，比如云野
+位置：任意场景
 
-步骤：坐在长凳的一侧，有玩家坐在另一侧即可完成任务
+步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220726/000547-10oed2bgs3.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220727/000240-bcfahg4sj5.png)
 
-任务： **面对冥龙**
+任务： **点燃20根蜡烛**
 
-位置：暮土二图
+位置：任意场景
 
-步骤：面对冥龙即可完成，大家要注意躲避哦。
+步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220726/000853-b1fdm23rnq.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220727/000815-ohr1km6s9b.png)
 
-任务： **在禁阁重温先祖的美好回忆  **
+任务： **在云野重温先祖的美好回忆  **
 
-位置：禁阁-4层
+位置：云野-右侧隐藏图
 
-步骤：到禁阁4层，找到平台上的先祖，完成回忆任务即可
+步骤：在高塔下方找到先祖，重温先祖回忆。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220726/000752-ly1jq8co2u.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220727/000319-gwl45tsamb.png)
 
-任务： **在禁阁的神坛旁冥想**
+任务： **在仙乡的金塔下冥想**
 
-位置：禁阁-顶层
+位置：云野-三座金塔地图
 
-步骤：来到禁阁的顶层，即可找到冥想点
+步骤：进入云野后往右边走，进穿过隐藏图，来到圣岛，冥想点在~
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220726/000639-8isjwo2bef.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220727/000503-50ay7chjob.png)
+
+  
 
   
 
