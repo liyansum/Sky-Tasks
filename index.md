@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-29 01:20:24
+date: 2022-07-30 01:13:02
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -18,41 +18,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220729/004730-4mp3qy5h6d.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220727/000240-bcfahg4sj5.png)
 
-任务： **面对冥龙**
+任务： **点燃20根蜡烛**
 
-位置：暮土二图
+位置：任意场景
 
-步骤：面对冥龙即可完成，大家要注意躲避哦。
+步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
+
+  
+
+![](https://ok.166.net/reunionpub/ds/kol/20220730/004116-rfhwi83t7s.png)
+
+任务： **在黑水湾的沉船上冥想**
+
+位置：暮土-黑水湾（沉船图）
+
+步骤：进入暮土三图后，从右侧洞穴进入沉船图，飞到沉船里面，在光圈内完成冥想
 
   
 
-![](https://ok.166.net/reunionpub/ds/kol/20220729/004754-m5hny96l3e.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220730/004450-debo8us97w.png)
 
-任务： **收集蓝色光芒**
+任务： **在暮土重温先祖的美好回忆  **
 
-位置：霞谷-滑冰场
+位置：暮土-远古战场（终点前）
 
-步骤：进入霞谷后，往前方滑行，来到滑冰场下方收集蓝色光芒
-
-![](https://ok.166.net/reunionpub/ds/kol/20220729/005214-1v7cfom8tl.png)
-
-任务： **在霞谷重温先祖的美好回忆  **
-
-位置：霞谷-赛道终点
-
-步骤：完成赛道之后，在边上找到先祖完成重温任务。
-
-  
+步骤：暮土远古战场大花旁边可看到先祖，完成任务即可。
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220729/004852-iuc1kpe5rd.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220730/004246-o7du3vp2nc.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220729/005016-ud4t0bl9j2.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220730/004326-teza6ub2jm.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220729/005115-lquf17cwrk.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220730/004541-5wzb3hoj1n.png)
+
+  
+
+  
+
+  
+
+  
 
   
 
