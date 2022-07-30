@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-30 01:13:02
+date: 2022-07-31 01:08:54
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,57 +10,45 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220727/000145-fr5lh96bg4.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220731/000522-gqt97ezlhw.png)
 
-任务： **向一位朋友做个动作**
-
-位置：任意场景
-
-步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
-
-![](https://ok.166.net/reunionpub/ds/kol/20220727/000240-bcfahg4sj5.png)
-
-任务： **点燃20根蜡烛**
+任务： **和朋友击掌**
 
 位置：任意场景
 
-步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：点击好友，在好友树使用【击掌】
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220731/000552-cbask5rt8g.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220730/004116-rfhwi83t7s.png)
+任务： **拯救一只被黑暗藤蔓困住的遥鲲**
 
-任务： **在黑水湾的沉船上冥想**
+位置：雨林-密林遗迹（断桥图/水母图）
 
-位置：暮土-黑水湾（沉船图）
+步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
 
-步骤：进入暮土三图后，从右侧洞穴进入沉船图，飞到沉船里面，在光圈内完成冥想
+![](https://ok.166.net/reunionpub/ds/kol/20220731/000627-fz0diesun3.png)
 
-  
+任务： **在禁阁追逐散落的星光**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220730/004450-debo8us97w.png)
+位置：禁阁一层
 
-任务： **在暮土重温先祖的美好回忆  **
+步骤：来到禁阁一层触碰到飞舞的星光即可完成任务。
 
-位置：暮土-远古战场（终点前）
+![](https://ok.166.net/reunionpub/ds/kol/20220731/000808-snghu9lfq6.png)
 
-步骤：暮土远古战场大花旁边可看到先祖，完成任务即可。
+任务： **在禁阁重温先祖的美好回忆  **
+
+位置：禁阁-三层
+
+步骤：到禁阁三层，完成回忆任务即可
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220730/004246-o7du3vp2nc.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220731/000734-hwmn9t2eli.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220730/004326-teza6ub2jm.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220731/000919-wfj1hl968n.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220730/004541-5wzb3hoj1n.png)
-
-  
-
-  
-
-  
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220731/001045-r8fvusp0be.png)
 
   
 
