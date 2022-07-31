@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-07-31 01:08:54
+date: 2022-08-01 01:09:07
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,13 +10,13 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220731/000522-gqt97ezlhw.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220801/001124-q3wth8rzb1.png)
 
-任务： **和朋友击掌**
+任务： **2人合力开启一道门**
 
-位置：任意场景
+位置：有双人门的场景，比如云野、霞谷、禁阁
 
-步骤：点击好友，在好友树使用【击掌】
+步骤：点燃双人门一边的机关，有玩家点燃另一边开启门的话，就能完成任务啦
 
 ![](https://ok.166.net/reunionpub/ds/kol/20220731/000552-cbask5rt8g.png)
 
@@ -26,29 +26,29 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220731/000627-fz0diesun3.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220801/001159-jk50caw9r3.png)
 
-任务： **在禁阁追逐散落的星光**
+任务： **在云野重温先祖的美好回忆  **
 
-位置：禁阁一层
+位置：云野一图
 
-步骤：来到禁阁一层触碰到飞舞的星光即可完成任务。
+步骤：在球形草坪下方重温先祖回忆。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220731/000808-snghu9lfq6.png)
+  
 
-任务： **在禁阁重温先祖的美好回忆  **
+![](https://ok.166.net/reunionpub/ds/kol/20220801/001219-3rc7u2k8fa.png)
 
-位置：禁阁-三层
+任务： **在云顶浮石上冥想**
 
-步骤：到禁阁三层，完成回忆任务即可
+位置：云野-右侧隐藏图
+
+步骤：进入云野后往右边走，进入隐藏图，找到光圈完成冥想即可~
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220731/000734-hwmn9t2eli.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220801/001300-e4zguwvoin.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220731/000919-wfj1hl968n.png)
-
-![](https://ok.166.net/reunionpub/ds/kol/20220731/001045-r8fvusp0be.png)
+  
 
   
 
