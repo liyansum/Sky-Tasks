@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-05 13:25:41
+date: 2022-08-08 01:08:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,29 +10,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220805/005921-48ders3s0u.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220808/001843-odh4v52tzr.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220805/010417-r4vtwnpd8l.png)
+任务： **向其他玩家传递能量**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220805/010850-p5b284vgmf.png)
+位置：任意场景
 
-![](https://ok.166.net/reunionpub/ds/kol/20220805/011242-1zjw8ibts0.png)
+步骤：在其他玩家损耗了能量的状态下，通过与其牵手传递能量，还可以尝试和好友牵手进图或者返回遇境，更多的完成方式可以在游戏中探索一下哦
+
+![](https://ok.166.net/reunionpub/ds/kol/20220808/001914-qwo0rjih48.png)
+
+任务： **面对冥龙**
+
+位置：暮土二图
+
+步骤：面对冥龙即可完成，大家要注意躲避哦。
+
+![](https://ok.166.net/reunionpub/ds/kol/20220808/001940-0i7u8hnjmy.png)
+
+任务： **在霞谷追逐散落的星光**
+
+位置：霞谷-滑冰场
+
+步骤：来到霞谷滑冰场触碰到飞舞的星光即可完成任务。
 
   
 
+![](https://ok.166.net/reunionpub/ds/kol/20220808/002517-5get1mfo7s.png)
+
+任务： **在霞谷重温先祖的美好回忆  **
+
+位置：霞谷-赛道终点
+
+步骤：完成赛道之后，在边上找到先祖完成重温任务。
+
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220805/005742-vhge8lz9ot.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220808/002044-ks7lrudz5w.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220805/011837-str2hue3gc.png)
-
-![](https://ok.166.net/reunionpub/ds/kol/20220805/011928-whifye8sp1.png)
-
-![](https://ok.166.net/reunionpub/ds/kol/20220805/012012-egjtd9rfza.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220808/002023-0u84movl7s.png)
 
   
 
