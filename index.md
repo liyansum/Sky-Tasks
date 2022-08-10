@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-10 01:13:13
+date: 2022-08-11 01:15:58
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,21 +10,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220810/002837-7zyqtbfn4i.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220811/001243-cguzo96fa0.jpeg)
 
-在星光沙漠 中心花园 左边云洞 进入
+在云野右侧隐藏图
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220810/000254-72a1owsd9c.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220811/000111-e73lhrob9s.png)
 
-任务： **和朋友击掌**
+任务： **向一位玩家鞠躬**
 
 位置：任意场景
 
-步骤：点击好友，在好友树使用【击掌】
+步骤：传送到好友的房间，面向好友，点开动作列表后使用【鞠躬】即可
 
 ![](https://ok.166.net/reunionpub/ds/kol/20220810/000324-jkbgzlhneq.png)
 
@@ -36,35 +36,35 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
   
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220811/000319-ciulfep8ts.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220810/000356-r19esdhy8q.png)
+任务： **在云野重温先祖的美好回忆  **
 
-任务： **收集紫色光芒**
+位置：云野一图
 
-位置：禁阁-地下室
+步骤：在球形草坪下方重温先祖回忆。
 
-步骤：进入禁阁往右边走，开启双人门进入地下室，通道出来可以看到紫色光芒，飞起进行收集即可
+![](https://ok.166.net/reunionpub/ds/kol/20220811/000202-r70v9p8hdm.png)
 
-  
+任务： **在仙乡的金塔下冥想**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220810/002358-m57r48essf.jpeg)
+位置：云野-三座金塔地图
 
-任务： **在禁阁重温先祖的美好回忆  **
-
-位置：禁阁-4层
-
-步骤：到禁阁4层，找到平台上的先祖，完成回忆任务即可
+步骤：进入云野二图，冥想点在左侧金塔旁边~
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220810/000517-q57swlzptm.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220811/000654-cgna4eh3p6.png)
+
+  
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220810/000549-0v68hd5e21.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220811/000525-5j68i9kyew.png)
+
+  
 
   
 
