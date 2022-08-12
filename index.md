@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-12 01:12:26
+date: 2022-08-13 01:17:25
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,65 +10,63 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220812/004337-s1zjfbw3ly.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220813/003736-1e2da534sc.jpeg)
 
-在雨林 秘密花园（老奶奶宴会旁边）
+霞谷 圆梦村
+
+![](https://ok.166.net/reunionpub/ds/kol/20220813/004940-8he6w3t0vs.jpeg)
+
+霞谷 滑冰场
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220811/000111-e73lhrob9s.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220813/003854-y3a7hinmce.png)
 
-任务： **向一位玩家鞠躬**
+任务：和朋友击掌
 
 位置：任意场景
 
-步骤：传送到好友的房间，面向好友，点开动作列表后使用【鞠躬】即可
+步骤：点击好友，在好友树使用【击掌】
 
-![](https://ok.166.net/reunionpub/ds/kol/20220812/003320-whs803m7dr.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220810/000324-jkbgzlhneq.png)
 
-任务： **在水母上恢复能量**
+任务： **拯救一只被黑暗藤蔓困住的遥鲲**
 
-位置：有水母的地图，比如雨林、云野
+位置：雨林-密林遗迹（断桥图/水母图）
 
-步骤：消耗能量之后，跳到水母上方恢复能量即可。
+步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220813/003911-f9bgt8h4o3.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220812/003345-4dvs1k9ji7.png)
+任务： **在霞光城上层冥想**
 
-任务： **面对冥龙**
+位置：霞谷-霞光城主城楼中间
 
-位置：暮土二图
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），围绕着主城往上飞，冥想点在中层的走廊上
 
-步骤：面对冥龙即可完成，大家要注意躲避哦。
+![](https://ok.166.net/reunionpub/ds/kol/20220813/004423-hwmz9so0jf.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220812/003411-4s9gt1mnsr.png)
+任务： **在霞谷重温先祖的美好回忆  **
 
-任务： **在雨林追逐散落的星光**
+位置：霞谷-霞光城中层走廊
 
-位置：雨林一图
-
-步骤：进入雨林后往下方飞（不要进入下一张地图），触碰到飞舞的星光即可完成任务。
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），在走廊找到先祖，完成重温任务。
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220812/003722-d7wjuaey6i.png)
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220813/003955-hbssrq2pjl.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220812/003614-brkvdp47aj.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220813/004751-6vz83729oq.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220812/003701-ts8diq3nmy.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220813/004742-hto3nb5psa.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220812/003516-2c6djylksq.png)
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220813/004731-5vtepi4ydz.png)
 
   
 
