@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-13 01:17:25
+date: 2022-08-14 01:09:10
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,65 +10,59 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/003736-1e2da534sc.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220814/002050-je8y2l7tg4.jpeg)
 
-霞谷 圆梦村
-
-![](https://ok.166.net/reunionpub/ds/kol/20220813/004940-8he6w3t0vs.jpeg)
-
-霞谷 滑冰场
+暮土 巨兽荒原
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/003854-y3a7hinmce.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220814/000253-s9skg3eup2.png)
 
-任务：和朋友击掌
+任务： **2人合力开启一道门**
 
-位置：任意场景
+位置：有双人门的场景，比如云野、霞谷、禁阁
 
-步骤：点击好友，在好友树使用【击掌】
+步骤：点燃双人门一边的机关，有玩家点燃另一边开启门的话，就能完成任务啦
 
-![](https://ok.166.net/reunionpub/ds/kol/20220810/000324-jkbgzlhneq.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220814/000953-61ash8fbp4.png)
 
-任务： **拯救一只被黑暗藤蔓困住的遥鲲**
+任务： **在暮土重温先祖的美好回忆  **
 
-位置：雨林-密林遗迹（断桥图/水母图）
+位置：暮土-边陲荒漠（一图）
 
-步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
+步骤：暮土边陲荒漠左侧 可看到先祖，完成任务即可。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/003911-f9bgt8h4o3.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220814/000317-01rtsubm8h.png)
 
-任务： **在霞光城上层冥想**
+任务： **掀翻5只螃蟹**
 
-位置：霞谷-霞光城主城楼中间
+位置：有螃蟹的场景，比如暮土、雨林
 
-步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），围绕着主城往上飞，冥想点在中层的走廊上
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/004423-hwmz9so0jf.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220814/000337-u4be5av6dq.png)
 
-任务： **在霞谷重温先祖的美好回忆  **
+任务： **在巨兽荒原的神坛旁冥想**
 
-位置：霞谷-霞光城中层走廊
+位置：暮土-巨兽荒原
 
-步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），在走廊找到先祖，完成重温任务。
+步骤：进入暮土四龙图后，直接往前飞，着陆之后往右边走，在光圈内完成冥想。光线较暗，注意躲避冥龙哦
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/003955-hbssrq2pjl.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220814/001444-w6euslfn9s.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/004751-6vz83729oq.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220814/000519-cb5sz9m82k.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/004742-hto3nb5psa.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220814/001108-614e3ksita.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/004731-5vtepi4ydz.png)
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220814/000433-ois910blru.png)
 
   
 
