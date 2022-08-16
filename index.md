@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-16 01:16:52
+date: 2022-08-17 01:13:33
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,41 +10,37 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220816/002038-r1s9yflept.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220817/001843-eqk5y6fcr0.jpeg)
 
-云野 右侧隐藏图
+雨林 密林遗迹（断桥、水母图）
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220816/000737-ar0sulpzvy.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220817/000431-cbvt54p3y7.png)
 
-任务： **与4位玩家牵手组队**
+任务： **和陌生人一起坐在长凳上**
 
-位置：任意场景
+位置：有长凳的场景，比如云野
 
-步骤：4个玩家牵手即可完成任务啦
+步骤：坐在长凳的一侧，有玩家坐在另一侧即可完成任务
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220817/000939-iapt4bh80o.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220816/001022-o4pkg8dbv7.png)
+任务： **在雨林重温先祖的美好回忆  **
 
-任务： **在幽光山洞里冥想**
+位置：雨林一图
 
-位置：云野-左侧隐藏图
+步骤：进入第一道门后可看到先祖，要注意避雨哦。
 
-步骤：进入云野后往左边走，进入隐藏图，找到山洞中光圈完成冥想即可~
+![](https://ok.166.net/reunionpub/ds/kol/20220817/000459-bsr8npqif7.png)
 
-  
+任务： **在秘密花园里冥想**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220816/002101-m2lghs9i6a.jpeg)
+位置：雨林-隐藏图
 
-任务： **在云野重温先祖的美好回忆  **
-
-位置：云野-金塔图
-
-步骤：在左侧金塔下，双人门内重温先祖回忆。
+步骤：来到雨林二图后，通过右边入口进入隐藏图，然后往右边飞，在空心树旁边找到冥想点~
 
 ![](https://ok.166.net/reunionpub/ds/kol/20220816/001234-9ge6n18sqs.png)
 
@@ -54,17 +50,15 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 步骤：面对冥龙即可完成，大家要注意躲避哦。
 
-  
-
-  
-
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220816/000900-sq7ioew90p.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220817/000821-rok2p4st6c.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220816/000812-9k0mglfs8q.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220817/001130-aj8bn2s9eu.png)
+
+  
 
