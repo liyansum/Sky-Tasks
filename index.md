@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-17 01:13:33
+date: 2022-08-18 13:30:01
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,55 +10,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220817/001843-eqk5y6fcr0.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220813/003736-1e2da534sc.jpeg)
 
-雨林 密林遗迹（断桥、水母图）
+霞谷 圆梦村
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220817/000431-cbvt54p3y7.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220818/000349-ksv19m7o5c.png)
 
-任务： **和陌生人一起坐在长凳上**
+任务： **向一位朋友招手**
 
-位置：有长凳的场景，比如云野
+位置：任意场景
 
-步骤：坐在长凳的一侧，有玩家坐在另一侧即可完成任务
+步骤：传送到好友的房间，面向好友，点开动作列表后使用【招手】即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220817/000939-iapt4bh80o.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220818/000422-1gkohqpr4s.png)
 
-任务： **在雨林重温先祖的美好回忆  **
+任务： **掀翻5只螃蟹**
 
-位置：雨林一图
+位置：有螃蟹的场景，比如暮土、雨林
 
-步骤：进入第一道门后可看到先祖，要注意避雨哦。
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220817/000459-bsr8npqif7.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220818/000444-v349oqcz25.png)
 
-任务： **在秘密花园里冥想**
+任务： **在霞光城拱门上冥想**
 
-位置：雨林-隐藏图
+位置：霞谷-拱门上方
 
-步骤：来到雨林二图后，通过右边入口进入隐藏图，然后往右边飞，在空心树旁边找到冥想点~
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），走完长阶梯后，可以找到的拱门上面的冥想点~
 
-![](https://ok.166.net/reunionpub/ds/kol/20220816/001234-9ge6n18sqs.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220818/000836-bact6znoj3.png)
 
-任务： **面对冥龙**
+任务： **在霞谷重温先祖的美好回忆  **
 
-位置：暮土二图
+位置：霞谷-霞光城中层走廊
 
-步骤：面对冥龙即可完成，大家要注意躲避哦。
+步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），在走廊找到先祖，完成重温任务。
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220817/000821-rok2p4st6c.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220818/000527-hzfueog27s.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220817/001130-aj8bn2s9eu.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220818/000317-p6he13mu5f.png)
 
   
+
+=
 
