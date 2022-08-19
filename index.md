@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-19 01:29:02
+date: 2022-08-20 01:18:03
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,61 +10,63 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/004917-37m4cjsv2p.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220810/002837-7zyqtbfn4i.jpeg)
 
-暮土 遗忘方舟
+在星光沙漠 中心花园 左边云洞 进入
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/003900-ranhmzlcjv.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220820/004916-kw70nsizl6.png)
 
-任务：给一位朋友送礼
+任务： **2人合力开启一道门**
 
-位置：遇境
+位置：有双人门的场景，比如云野、霞谷、禁阁
 
-步骤：点开好友星盘，选择一位好友赠送爱心（消耗3根蜡烛）
+步骤：点燃双人门一边的机关，有玩家点燃另一边开启门的话，就能完成任务啦
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/003910-a5zmpfn74y.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220820/004956-60ys14qlk9.png)
 
-任务： **净化10株黑暗植物**
+任务： **掀翻5只螃蟹**
 
-位置：有黑暗植物的地图，比如雨林、云野、暮土
+位置：有螃蟹的场景，比如暮土、雨林
 
-步骤：用蜡烛将黑暗植物燃烧掉即可。
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/003950-vk641q5uw9.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220820/005153-lpd89btmhz.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/003954-gdz5mql9aw.png)
+任务： **在禁阁重温先祖的美好回忆  **
 
-任务： **收集红色光芒**
+位置：禁阁-二层4人门内
 
-位置：暮土-遗忘方舟/沉船图
+步骤：到禁阁二层，开启四人门，完成回忆任务即可
 
-步骤：进入暮土一图后往右边走，乘坐小船进入遗忘方舟地图，一直往前即可找到红色光芒！另外，在沉船图也能找到红色光芒哦
+![](https://ok.166.net/reunionpub/ds/kol/20220820/005226-gtnss4zdrk.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/004334-fj5seaqyuh.png)
+任务： **在禁阁的神坛旁冥想**
 
-任务： **在暮土重温先祖的美好回忆  **
+位置：禁阁-顶层
 
-位置：暮土-巨兽荒原（三图）
-
-步骤：暮土龙骨图最高的山丘下，在洞里面可看到先祖，要注意躲避冥龙哦。
+步骤：来到禁阁的顶层，即可找到冥想点
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/004225-3c0s1njsbv.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220820/005058-tb5093r4gy.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/004556-6owqysfncu.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220820/005510-3s78l9t4nf.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/004616-2fdos8ucvb.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220820/005503-7qs09hokjc.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220819/004631-zassqketgn.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220820/005531-dafkruwh35.png)
+
+  
+
+  
 
   
 
