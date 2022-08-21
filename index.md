@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-21 13:11:55
+date: 2022-08-22 01:10:17
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,63 +10,55 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220821/021929-wz1r5nvf6c.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220817/001843-eqk5y6fcr0.jpeg)
 
-云野 幽光山洞
+雨林 密林遗迹（断桥、水母图）
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220815/000202-5tqcekuofh.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220822/000700-kzfbco6mhi.png)
 
-任务： **向一位朋友做个动作**
+任务： **接受一位朋友的礼物**
 
-位置：任意场景
+位置：遇境
 
-步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
+步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
 
-![](https://ok.166.net/reunionpub/ds/kol/20220821/013236-34iuhctbzg.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220822/000633-0w2venb8lo.png)
 
-任务： **净化10株黑暗植物**
+任务： **在荧光森林冥想**
 
-位置：有黑暗植物的地图，比如雨林、云野、暮土
+位置：雨林-荧光森林
 
-步骤：用蜡烛将黑暗植物燃烧掉即可。
+步骤：来到雨林经过2道机关门后，冥想点在隐藏图入口前的亭子里~
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220822/000752-bsj6wgaz2m.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220821/013300-qb3gno64wh.png)
+任务： **拯救一只被黑暗藤蔓困住的遥鲲**
 
-任务： **在云野的锦鲤池旁冥想**
+位置：雨林-密林遗迹（断桥图/水母图）
 
-位置：云野-神庙入口前的桥下
+步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
 
-步骤：进入云野二图后，启动三座塔之后，随遥鲲飞上神庙，在入口前的桥下找到光圈，完成冥想即可~
+![](https://ok.166.net/reunionpub/ds/kol/20220822/001003-vz3u6e4nrb.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220821/013613-806sfc2spa.png)
+任务： **在雨林重温先祖的美好回忆  **
 
-任务： **在云野重温先祖的美好回忆  **
+位置：雨林-密林遗迹（断桥图/水母图）
 
-位置：云野-右侧隐藏图
-
-步骤：在高塔下方找到先祖，重温先祖回忆。
+步骤：在右方的洞穴内重温先祖回忆。
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220821/013700-m1ayu63lh2.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220822/000545-5vlue1p027.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220821/013356-twomhqfydj.png)
-
-![](https://ok.166.net/reunionpub/ds/kol/20220821/013423-j8nd73b4ev.png)
-
-![](https://ok.166.net/reunionpub/ds/kol/20220821/013501-c3psrduy7a.png)
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220822/000430-he471spvfn.png)
 
   
 
