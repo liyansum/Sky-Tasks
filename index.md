@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-26 01:12:55
+date: 2022-08-27 01:14:08
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,63 +10,59 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-在圣岛-。-
+雨林 大树屋
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220815/000202-5tqcekuofh.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220823/000414-p1gr9fmh6y.png)
 
-任务： **向一位朋友做个动作**
+任务： **向其他玩家传递能量**
 
 位置：任意场景
 
-步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
+步骤：在其他玩家损耗了能量的状态下，通过与其牵手传递能量，还可以尝试和好友牵手进图或者返回遇境，更多的完成方式可以在游戏中探索一下哦
+
+![](https://ok.166.net/reunionpub/ds/kol/20220827/005602-mcssbeqv6j.png)
+
+任务： **点燃20根蜡烛**
+
+位置：任意场景
+
+步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
 
   
 
-![](https://ok.166.net/reunionpub/ds/kol/20220825/001503-4ewof2nbv3.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220827/005632-ukp9238b0c.png)
 
-任务： **掀翻5只螃蟹**
+任务： **在雨林追逐散落的星光**
 
-位置：有螃蟹的场景，比如暮土、雨林
+位置：雨林一图
 
-步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
+步骤：进入雨林后往下方飞（不要进入下一张地图），触碰到飞舞的星光即可完成任务。
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220827/010150-18dme2r0vp.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220826/005437-37fu4pdlc2.png)
+任务： **在雨林重温先祖的美好回忆  **
 
-任务： **收集绿色光芒**
+位置：雨林-橙色光芒所在地图
 
-位置：云野-右边隐藏图
-
-步骤：进入云野一图后往右边走，进入隐藏地图，在左侧的浮空岛等候绿色光芒掉落，需要有一定的耐心噢
-
-  
-
-![](https://ok.166.net/reunionpub/ds/kol/20220826/005938-ui9qecbsfz.png)
-
-任务： **在云野重温先祖的美好回忆  **
-
-位置：云野-金塔图
-
-步骤：在左侧金塔下，双人门内重温先祖回忆。
+步骤：到密林遗迹地图（去找橙色光芒的路上会经过），找到先祖，重温先祖回忆。
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220826/005721-ic0u7nejhy.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220827/005950-ck08itjs3q.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220826/005648-z12cgk78hi.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220827/005821-0c9fp26yma.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220826/005602-lvmr8gbzju.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220827/005926-h1k9cfnbgz.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220826/005530-yq5sh6pscm.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220827/005859-p2fbsdsget.png)
 
   
 
