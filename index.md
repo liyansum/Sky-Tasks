@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-28 01:10:28
+date: 2022-08-29 01:10:46
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,63 +10,61 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220813/003736-1e2da534sc.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220829/002721-flsr6tb2c8.jpeg)
 
-霞谷 圆梦村
+暮土 巨兽荒原
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220820/004916-kw70nsizl6.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220829/001952-pduns952tg.png)
 
-任务： **2人合力开启一道门**
+任务： **和朋友击掌**
 
-位置：有双人门的场景，比如云野、霞谷、禁阁
+位置：任意场景
 
-步骤：点燃双人门一边的机关，有玩家点燃另一边开启门的话，就能完成任务啦
+步骤：点击好友，在好友树使用【击掌】
 
-![](https://ok.166.net/reunionpub/ds/kol/20220828/003605-a09uf4z7sw.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220829/001313-rc41oa80ye.png)
 
-任务： **在霞光城拱门上冥想**
+任务： **收集30点烛光**
 
-位置：霞谷-拱门上方
+位置：任意场景
 
-步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），走完长阶梯后，可以找到的拱门上面的冥想点~
+步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
 
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220829/001354-mc73kjzfv6.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220828/003543-8nsjeolvp9.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220829/001417-ua73foi64t.png)
 
-任务： **在霞谷重温先祖的美好回忆  **
+任务：收 **集红色光芒**
 
-位置：霞谷-霞光城中层走廊
+位置：暮土-遗忘方舟/沉船图
 
-步骤：从霞谷滑冰场进入霞光城（去飞行赛道的方向），在走廊找到先祖，完成重温任务。
+步骤：进入暮土一图后往右边走，乘坐小船进入遗忘方舟地图，一直往前即可找到红色光芒！另外，在沉船图能找到红色光芒哦
 
-![](https://ok.166.net/reunionpub/ds/kol/20220828/003628-yrg19jkusd.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220829/001832-t5m9yldbsr.png)
 
-任务： **面对冥龙**
+任务： **在暮土重温先祖的美好回忆  **
 
 位置：暮土二图
 
-步骤：面对冥龙即可完成，大家要注意躲避哦。
+步骤：二图入口即可看到先祖，要注意躲避冥龙哦。
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220828/003319-sbos361wtm.png)
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220829/001632-tmkypf9d5i.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220828/003245-b734toec15.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220829/001510-sq9g8vnzok.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220828/003142-aw0mn4ckf7.png)
+  
 
-![](https://ok.166.net/reunionpub/ds/kol/20220828/003706-rqtp7v8yon.png)
+  
 
   
 
