@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-29 01:10:46
+date: 2022-08-30 01:14:44
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,61 +10,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220829/002721-flsr6tb2c8.jpeg)
+![](https://ok.166.net/reunionpub/ds/kol/20220810/002837-7zyqtbfn4i.jpeg)
 
-暮土 巨兽荒原
+在星光沙漠 中心花园 左边云洞 进入
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220829/001952-pduns952tg.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220830/001058-s8o5vd1ujg.png)
 
-任务： **和朋友击掌**
-
-位置：任意场景
-
-步骤：点击好友，在好友树使用【击掌】
-
-![](https://ok.166.net/reunionpub/ds/kol/20220829/001313-rc41oa80ye.png)
-
-任务： **收集30点烛光**
+任务： **向一位玩家鞠躬**
 
 位置：任意场景
 
-步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：面向玩家，点开动作列表后使用【鞠躬】即可
 
-![](https://ok.166.net/reunionpub/ds/kol/20220829/001354-mc73kjzfv6.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220830/000756-ao0jdrl1p7.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220829/001417-ua73foi64t.png)
+任务： **收集紫色光芒**
 
-任务：收 **集红色光芒**
+位置：禁阁-地下室
 
-位置：暮土-遗忘方舟/沉船图
+步骤：进入禁阁往右边走，开启双人门进入地下室，通道出来可以看到紫色光芒，飞起进行收集即可
 
-步骤：进入暮土一图后往右边走，乘坐小船进入遗忘方舟地图，一直往前即可找到红色光芒！另外，在沉船图能找到红色光芒哦
+  
 
-![](https://ok.166.net/reunionpub/ds/kol/20220829/001832-t5m9yldbsr.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220830/001220-2kyoflnvgp.png)
 
-任务： **在暮土重温先祖的美好回忆  **
+任务： **在禁阁重温先祖的美好回忆  **
 
-位置：暮土二图
+位置：禁阁-三层
 
-步骤：二图入口即可看到先祖，要注意躲避冥龙哦。
+步骤：到禁阁三层，完成回忆任务即可
+
+![](https://ok.166.net/reunionpub/ds/kol/20220830/001318-vnlu0wyd61.png)
+
+任务： **掀翻5只螃蟹**
+
+位置：有螃蟹的场景，比如暮土、雨林
+
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220829/001632-tmkypf9d5i.png)
+![](https://ok.166.net/reunionpub/ds/kol/20220830/001006-7538ik1ayh.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220829/001510-sq9g8vnzok.png)
-
-  
-
-  
+![](https://ok.166.net/reunionpub/ds/kol/20220830/000243-pcd8gf79vh.png)
 
   
 
