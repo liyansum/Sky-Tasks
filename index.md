@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-08-31 01:16:49
+date: 2022-09-01 01:14:51
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,63 +10,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220821/021929-wz1r5nvf6c.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20220901/001333-rvf19ajd6h.jpeg)
 
-云野 幽光山洞
+雨林 大树屋
 
   
 
  **任务攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220823/000414-p1gr9fmh6y.png)
+![](https://img.166.net/reunionpub/ds/kol/20220811/000111-e73lhrob9s.png)
 
-任务： **向其他玩家传递能量**
-
-位置：任意场景
-
-步骤：在其他玩家损耗了能量的状态下，通过与其牵手传递能量，还可以尝试和好友牵手进图或者返回遇境，更多的完成方式可以在游戏中探索一下哦
-
-![](https://ok.166.net/reunionpub/ds/kol/20220827/005602-mcssbeqv6j.png)
-
-任务： **点燃20根蜡烛**
+任务： **向一位朋友做个动作**
 
 位置：任意场景
 
-步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：传送到好友的房间，面向好友，点开动作列表后使用任意动作即可
 
   
 
-![](https://ok.166.net/reunionpub/ds/kol/20220831/001300-vwtrnzc6j0.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20220812/003345-4dvs1k9ji7.png)
 
-任务： **在云野重温先祖的美好回忆  **
+任务： **面对冥龙**
 
-位置：云野-金塔图
+位置：暮土二图
 
-步骤：在右侧金塔下，重温先祖回忆。
+步骤：面对冥龙即可完成，大家要注意躲避哦。
 
-  
+![](https://img.166.net/reunionpub/ds/kol/20220812/003411-4s9gt1mnsr.png)
 
-![](https://ok.166.net/reunionpub/ds/kol/20220831/001435-fja73ihtgu.png)
+任务： **在雨林追逐散落的星光**
 
-任务： **在幽光山洞里冥想**
+位置：雨林一图
 
-位置：云野-左侧隐藏图
+步骤：进入雨林后往下方飞（不要进入下一张地图），触碰到飞舞的星光即可完成任务。
 
-步骤：进入云野后往左边走，进入隐藏图，找到山洞中光圈完成冥想即可~
+![](https://img.166.net/reunionpub/ds/kol/20220901/001235-bfceq8hsn2.png)
+
+任务： **在雨林重温先祖的美好回忆  **
+
+位置：雨林-橙色光芒所在地图
+
+步骤：到密林遗迹地图（去找橙色光芒的路上会经过），找到先祖，重温先祖回忆。
 
  **季节烛火攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220831/000559-hq6uc3vksr.png)
-
-  
+![](https://img.166.net/reunionpub/ds/kol/20220901/001008-gfdh8ow13y.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://ok.166.net/reunionpub/ds/kol/20220831/000348-is3zbc7rus.png)
-
-  
+![](https://img.166.net/reunionpub/ds/kol/20220901/000505-oaikmc4710.png)
 
   
 
