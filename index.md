@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-09-04 01:12:20
+date: 2022-09-05 01:12:12
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,61 +10,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://img.166.net/reunionpub/ds/kol/20220810/002837-7zyqtbfn4i.jpeg)
-
-在星光沙漠 中心花园 左边云洞 进入
+无红石
 
   
 
  **任务攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220830/001058-s8o5vd1ujg.png)
+![](https://img.166.net/reunionpub/ds/kol/20220822/000700-kzfbco6mhi.png)
 
-任务： **向一位玩家鞠躬**
+任务： **接受一位朋友的礼物**
 
-位置：任意场景
+位置：遇境
 
-步骤：面向玩家，点开动作列表后使用【鞠躬】即可
+步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
+
+![](https://img.166.net/reunionpub/ds/kol/20220821/013236-34iuhctbzg.png)
+
+任务： **净化10株黑暗植物**
+
+位置：有黑暗植物的地图，比如雨林、云野、暮土
+
+步骤：用蜡烛将黑暗植物燃烧掉即可。
 
   
 
-![](https://img.166.net/reunionpub/ds/kol/20220904/000812-amvpwgzrs9.png)
+![](https://img.166.net/reunionpub/ds/kol/20220831/001435-fja73ihtgu.png)
 
-任务： **在禁阁重温先祖的美好回忆  **
+任务： **在幽光山洞里冥想**
 
-位置：禁阁-一层密室门内
+位置：云野-左侧隐藏图
 
-步骤：到禁阁一层，开启多人门，完成回忆任务即可
+步骤：进入云野后往左边走，进入隐藏图，找到山洞中光圈完成冥想即可~
 
-![](https://img.166.net/reunionpub/ds/kol/20220904/000836-90zi6gynve.png)
+![](https://img.166.net/reunionpub/ds/kol/20220905/001422-rlzypg2c56.png)
 
-任务： **点燃20根蜡烛**
+任务： **在云野重温先祖的美好回忆  **
 
-位置：任意场景
+位置：云野-金塔图
 
-步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
+步骤：在中间金塔下重温先祖回忆。
 
-![](https://img.166.net/reunionpub/ds/kol/20220904/000852-1qwi43fbnp.png)
-
-任务： **在禁阁的神坛旁冥想**
-
-位置：禁阁-顶层
-
-步骤：来到禁阁的顶层，即可找到冥想点
+  
 
  **季节烛火攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220904/000331-1ndqjctuf5.png)
+![](https://img.166.net/reunionpub/ds/kol/20220905/001354-rfeoc0i1ha.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220904/000438-cjm0641trv.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20220904/000936-ja4sockry2.png)
-
-![](https://img.166.net/reunionpub/ds/kol/20220904/000954-dsmyzuncet.png)
+![](https://img.166.net/reunionpub/ds/kol/20220822/000430-he471spvfn.png)
 
   
 
