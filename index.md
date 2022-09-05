@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-09-05 01:12:12
+date: 2022-09-06 01:14:58
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -12,55 +12,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 无红石
 
+黑石在雨林 荧光森林
+
   
 
  **任务攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220822/000700-kzfbco6mhi.png)
+![](https://img.166.net/reunionpub/ds/kol/20220820/004916-kw70nsizl6.png)
 
-任务： **接受一位朋友的礼物**
+任务： **2人合力开启一道门**
 
-位置：遇境
+位置：有双人门的场景，比如云野、霞谷、禁阁
 
-步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
+步骤：点燃双人门一边的机关，有玩家点燃另一边开启门的话，就能完成任务啦
 
-![](https://img.166.net/reunionpub/ds/kol/20220821/013236-34iuhctbzg.png)
+![](https://img.166.net/reunionpub/ds/kol/20220827/005602-mcssbeqv6j.png)
 
-任务： **净化10株黑暗植物**
+任务： **点燃20根蜡烛**
 
-位置：有黑暗植物的地图，比如雨林、云野、暮土
+位置：任意场景
 
-步骤：用蜡烛将黑暗植物燃烧掉即可。
+步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
+
+![](https://img.166.net/reunionpub/ds/kol/20220906/000642-89zb0fvpir.png)
+
+任务： **在密林遗迹冥想**
+
+位置：雨林-密林遗迹（断桥图/水母图）
+
+步骤：来到雨林断桥图后，冥想点在断桥旁边的亭子里~
 
   
 
-![](https://img.166.net/reunionpub/ds/kol/20220831/001435-fja73ihtgu.png)
+![](https://img.166.net/reunionpub/ds/kol/20220906/000710-nbsk2eyqtm.png)
 
-任务： **在幽光山洞里冥想**
+任务： **在荧光小菇旁恢复能量**
 
-位置：云野-左侧隐藏图
+位置：有荧光小菇的地图，比如雨林
 
-步骤：进入云野后往左边走，进入隐藏图，找到山洞中光圈完成冥想即可~
-
-![](https://img.166.net/reunionpub/ds/kol/20220905/001422-rlzypg2c56.png)
-
-任务： **在云野重温先祖的美好回忆  **
-
-位置：云野-金塔图
-
-步骤：在中间金塔下重温先祖回忆。
+步骤：消耗能量完毕之后，跳到荧光小菇上方恢复能量即可。
 
   
 
  **季节烛火攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220905/001354-rfeoc0i1ha.png)
+![](https://img.166.net/reunionpub/ds/kol/20220906/000929-ju2gzywdk6.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220822/000430-he471spvfn.png)
+![](https://img.166.net/reunionpub/ds/kol/20220906/000753-lntw3ej0s4.png)
 
   
 
