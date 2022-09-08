@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-09-08 01:23:19
+date: 2022-09-09 01:22:55
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,35 +10,21 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-暮土 沉船图
+![](https://img.166.net/reunionpub/ds/kol/20220810/002837-7zyqtbfn4i.jpeg)
+
+在星光沙漠 中心花园 左边云洞 进入
 
   
 
  **任务攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220829/001313-rc41oa80ye.png)
+![](https://img.166.net/reunionpub/ds/kol/20220909/000922-u5clqrtk6d.png)
 
-任务： **收集30点烛光**
+任务：掀翻5只螃蟹
 
-位置：任意场景
+位置：有螃蟹的场景，比如暮土、雨林
 
-步骤：收集30点烛光即可完成任务，跑图的时候可以顺便做任务哦。
-
-![](https://img.166.net/reunionpub/ds/kol/20220908/001825-yisnkqtm52.png)
-
-任务： **在暮土重温先祖的美好回忆  **
-
-位置：暮土-一图
-
-步骤：暮土第一个地图可看到先祖，要注意躲避螃蟹哦。
-
-![](https://img.166.net/reunionpub/ds/kol/20220908/001848-rpzogik2ad.png)
-
-任务： **在巨兽荒原的神坛旁冥想**
-
-位置：暮土-巨兽荒原（三图）
-
-步骤：进入暮土三图后，直接往前飞，着陆之后往右边走，在光圈内完成冥想。光线较暗，注意躲避冥龙哦
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
 ![](https://img.166.net/reunionpub/ds/kol/20220908/001915-15e8ayiwkm.png)
 
@@ -48,15 +34,47 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
 步骤：点击好友，在好友树使用【击掌】
 
+![](https://img.166.net/reunionpub/ds/kol/20220909/000943-qrpsz9dh4m.png)
+
+任务：收集紫色光芒
+
+位置：禁阁-地下室
+
+步骤：进入禁阁往右边走，开启双人门进入地下室，通道出来可以看到紫色光芒，飞起进行收集即可
+
+![](https://img.166.net/reunionpub/ds/kol/20220909/001700-vi7049r61w.png)
+
+任务：在禁阁重温先祖的美好回忆
+
+位置：禁阁-4层
+
+步骤：到禁阁4层，找到平台上的先祖，完成回忆任务即可
+
  **季节烛火攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220908/002118-vzm5isk86p.png)
+![](https://img.166.net/reunionpub/ds/kol/20220909/001308-92du5r0hgb.png)
+
+  
 
   
 
  **大蜡烛攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220908/002419-qpiu5h8tce.png)
+![](https://img.166.net/reunionpub/ds/kol/20220909/001237-0u1cebg9kz.png)
+
+  
+
+![](https://img.166.net/reunionpub/ds/kol/20220909/001132-68rspkdv2y.png)
+
+  
+
+![](https://img.166.net/reunionpub/ds/kol/20220909/001052-3hfqasg6lm.png)
+
+  
+
+![](https://img.166.net/reunionpub/ds/kol/20220909/001044-assolie1zn.png)
+
+  
 
   
 
