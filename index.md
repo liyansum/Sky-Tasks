@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-09-10 01:18:05
+date: 2022-09-11 01:14:56
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,57 +10,49 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-![](https://img.166.net/reunionpub/ds/kol/20220816/002038-r1s9yflept.jpeg)
+![](https://img.166.net/reunionpub/ds/kol/20220911/002720-7o5e3b9l6u.jpeg)
 
-云野 右侧隐藏图
+雨林神庙
 
   
 
  **任务攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220910/001041-rsmndg04kj.png)
+![](https://img.166.net/reunionpub/ds/kol/20220911/000958-19bkm746iq.png)
 
-任务：向一位玩家鞠躬
+任务：向一位朋友招手
 
 位置：任意场景
 
-步骤：面向玩家，点开动作列表后使用【鞠躬】即可
+步骤：传送到好友的房间，面向好友，点开动作列表后使用【招手】即可
 
-  
+![](https://img.166.net/reunionpub/ds/kol/20220911/001023-6d9kn5z431.png)
 
-![](https://img.166.net/reunionpub/ds/kol/20220910/001117-8iave6lwp3.png)
+任务：掀翻5只螃蟹
 
-任务：拯救一只被黑暗藤蔓困住的遥鲲
+位置：有螃蟹的场景，比如暮土、雨林
 
-位置：雨林-密林遗迹（断桥图/水母图）
+步骤：长按自己的角色大叫即可掀翻身边的螃蟹。
 
-步骤：蜡烛烧掉黑暗藤蔓，让遥鲲飞走即可完成任务。
+![](https://img.166.net/reunionpub/ds/kol/20220911/001039-bv8p4tiszn.png)
 
-  
+任务：在静谧庭院外冥想
 
-![](https://img.166.net/reunionpub/ds/kol/20220910/001148-bfelswgsp4.png)
+位置：雨林-一图
 
-任务：在云野追逐散落的星光
+步骤：进入雨林后往下方飞（不要进入下一张地图），在左边的空地找到光圈完成冥想~
 
-位置：云野一图
+![](https://img.166.net/reunionpub/ds/kol/20220911/002749-hn0wl6pvra.jpeg)
 
-步骤：来到云野一图触碰到飞舞的星光即可完成任务。
+任务：在雨林重温先祖的美好回忆
 
-![](https://img.166.net/reunionpub/ds/kol/20220910/001901-8iyulwrazh.png)
+位置：雨林-进入水母断桥图之前的入口左边
 
-任务：在云野重温先祖的美好回忆
-
-位置：云野-右侧隐藏图
-
-步骤：在高塔下方找到先祖，重温先祖回忆。
+步骤：在洞里找到先祖，重温先祖回忆。
 
  **季节烛火攻略**
 
-  
-
-![](https://img.166.net/reunionpub/ds/kol/20220910/001544-9k3yej7sub.png)
-
-  
+![](https://img.166.net/reunionpub/ds/kol/20220911/001359-dpj2wr03za.png)
 
   
 
@@ -70,19 +62,19 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 
   
 
-![](https://img.166.net/reunionpub/ds/kol/20220910/001417-wy1qizn9se.png)
+![](https://img.166.net/reunionpub/ds/kol/20220911/001352-9eyirjupo1.png)
 
   
 
-![](https://img.166.net/reunionpub/ds/kol/20220910/001342-w8nqzpm249.png)
+![](https://img.166.net/reunionpub/ds/kol/20220911/001316-t7svh58l92.png)
 
   
 
-![](https://img.166.net/reunionpub/ds/kol/20220910/001302-8jvfqk5c34.png)
+![](https://img.166.net/reunionpub/ds/kol/20220911/001149-tigk35db6s.png)
 
   
 
-![](https://img.166.net/reunionpub/ds/kol/20220910/001233-9vzyi8j61b.png)
+![](https://img.166.net/reunionpub/ds/kol/20220911/001111-ugp04bvrnf.png)
 
   
 
