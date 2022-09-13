@@ -1,6 +1,6 @@
 ---
 title: 光遇小助理每日攻略
-date: 2022-09-13 01:21:55
+date: 2022-09-14 01:18:53
 categories: Sky光•遇
 tags: [Sky光•遇,光遇小助理每日攻略]
 description: 
@@ -10,57 +10,57 @@ banner_img: https://ok.166.net/reunionpub/ds/kol/20210722/001554-k2u90bj7ay.png?
 # 光遇小助理每日攻略
 **灼热碎片位置**
 
-无红石
+![](https://img.166.net/reunionpub/ds/kol/20220810/002837-7zyqtbfn4i.jpeg)
+
+在星光沙漠 中心花园 左边云洞 进入
 
   
 
  **任务攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220820/004916-kw70nsizl6.png)
+![](https://img.166.net/reunionpub/ds/kol/20220914/001046-j59g4nobqc.png)
 
-任务： **2人合力开启一道门**
+任务：接受一位朋友的礼物
 
-位置：有双人门的场景，比如云野、霞谷、禁阁
+位置：遇境
 
-步骤：点燃双人门一边的机关，有玩家点燃另一边开启门的话，就能完成任务啦
+步骤：点开好友星盘，收取好友给自己赠送的心火或者爱心
 
-![](https://img.166.net/reunionpub/ds/kol/20220828/003628-yrg19jkusd.png)
+![](https://img.166.net/reunionpub/ds/kol/20220914/001126-snavke2m9t.png)
 
-任务： **面对冥龙**
+任务：点燃20根蜡烛
 
-位置：暮土二图
+位置：任意场景
 
-步骤：面对冥龙即可完成，大家要注意躲避哦。
+步骤：点燃20根蜡烛即可完成任务，跑图的时候可以顺便做任务哦。
 
-![](https://img.166.net/reunionpub/ds/kol/20220913/001134-ka4qf59n7r.png)
+![](https://img.166.net/reunionpub/ds/kol/20220909/000943-qrpsz9dh4m.png)
 
-任务： **在巨兽荒原的神坛旁冥想**
+任务：收集紫色光芒
 
-位置：暮土-巨兽荒原（三图）
+位置：禁阁-地下室
 
-步骤：进入暮土三图后，直接往前飞，着陆之后往右边走，在光圈内完成冥想。光线较暗，注意躲避冥龙哦
+步骤：进入禁阁往右边走，开启双人门进入地下室，通道出来可以看到紫色光芒，飞起进行收集即可
 
-![](https://img.166.net/reunionpub/ds/kol/20220913/001222-yn7s9o1rza.png)
+![](https://img.166.net/reunionpub/ds/kol/20220914/001444-nbqc9svp8k.png)
 
-任务： **在暮土重温先祖的美好回忆  **
+任务：在禁阁重温先祖的美好回忆
 
-位置：暮土-隐藏图（沉船图）
+位置：禁阁-4层
 
-步骤：来到暮土隐藏图，在沉船背面找到先祖，完成回忆任务。
+步骤：到禁阁4层，找到平台上的先祖，完成回忆任务即可
 
  **季节烛火攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220913/001258-shp07lzknq.png)
+![](https://img.166.net/reunionpub/ds/kol/20220914/001252-rvki4e023z.png)
 
   
 
  **大蜡烛攻略**
 
-![](https://img.166.net/reunionpub/ds/kol/20220913/001335-vpk3sd6ejl.png)
+![](https://img.166.net/reunionpub/ds/kol/20220914/001224-j7qglciw61.png)
 
-  
-
-![](https://img.166.net/reunionpub/ds/kol/20220913/001318-mikhsazrso.png)
+![](https://img.166.net/reunionpub/ds/kol/20220914/001338-s7dhjuk34p.png)
 
   
 
